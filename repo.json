@@ -1,0 +1,8 @@
+{
+  "name": "NguonC CloudStream Repo",
+  "description": "Kho plugin NguonC cho CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/%GITHUB_REPOSITORY%/builds/plugins.json"
+  ]
+}
